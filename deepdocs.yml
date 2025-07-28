@@ -1,5 +1,5 @@
-target_repo:
-  - url: "https://github.com/ZRS40/Mc-Bot-Tool/blob/main/README.md"
+target:
+  - url: "docs/"
 
 include:  []
 

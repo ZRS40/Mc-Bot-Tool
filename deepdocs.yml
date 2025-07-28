@@ -1,2 +1,6 @@
 target_repo:
   - url: "https://github.com/ZRS40/Mc-Bot-Tool/README.md"
+
+include:  []
+
+reinit: "a-random-string"

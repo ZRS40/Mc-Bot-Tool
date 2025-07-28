@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer')
 const args = process.argv.slice(2);
 
 if (args.length === 0) {
-    console.log("Utilisation : node index.js [server-ip] [server port] [pseudo]");
+    console.log("Utilisation : node index.js [server-ip] [server-port] [pseudo]");
     process.exit(1); // Quitter avec un code d'erreur
 }
 

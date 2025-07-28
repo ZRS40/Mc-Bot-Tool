@@ -2,3 +2,6 @@ target:
   - url: "docs/"
 
 reinit: "a"
+
+ignore:
+  - "README.md"
